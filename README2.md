@@ -13,9 +13,9 @@
   ║                                                              ║
   ║        📚 WIKI PERSONAL DE APRENDIZAJE - DAW ESTUDIANTE 📚  ║
   ║                                                              ║
-  ║         Desarrollo Web | Tecnología | Aprendizaje Continuo  ║
+  ║         Desarrollo Web | Tecnología | Aprendizaje Continuo   ║
   ║                                                              ║
-  ║              Escola Pia Santa Anna-Mataró 2026              ║
+  ║              Escola Pia Santa Anna-Mataró 2026               ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
   ```
