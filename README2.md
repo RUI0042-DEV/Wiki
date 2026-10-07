@@ -128,6 +128,35 @@ Busco constantemente mejorar mis habilidades mediante:
 
 ---
 
+## 🤖 Integración de IA con GitHub Copilot
+
+Este README fue mejorado significativamente utilizando **GitHub Copilot**, una herramienta de IA que acelera y optimiza el proceso de documentación. Aquí se explica cómo se utilizó:
+
+### 🎯 1. **Generación de estructura profesional y visual**
+GitHub Copilot asistió en la creación de una estructura modular y coherente del documento. La herramienta sugirió la organización de secciones siguiendo patrones profesionales, incluyendo encabezados descriptivos con emojis estratégicos, divisores visuales (`---`) y una jerarquía clara de contenidos. Esto resultó en un README más legible y navegable que mejora la experiencia del usuario.
+
+### 📊 2. **Generación automática de tablas en Markdown**
+Una de las principales aportaciones fue la creación de **múltiples tablas profesionales** con formato Markdown consistente:
+- **Tabla de estado del repositorio** con aspectos, estado y detalles
+- **Tabla de contenidos de la wiki** con iconos, categorías, descripciones y estado
+- **Tabla de objetivos profesionales** organizados por plazo
+
+Copilot automatizó el formateo correcto de las tablas, asegurando alineación, separadores y estructura válida en Markdown.
+
+### ✨ 3. **Aplicación de buenas prácticas en Markdown**
+La herramienta implementó estándares profesionales de documentación:
+- Uso consistente de **títulos jerárquicos** (`#`, `##`, `###`)
+- **Badges interactivos** con shields.io para visualizar estado, progreso y tecnologías
+- **Bloques de código ASCII** para crear elementos decorativos y llamativos
+- **Formateo de énfasis** con `**negrita**`, `*cursiva*` y ``código``
+- **Citaciones con comillas** (`>`) para destacar frases importantes
+- Listas ordenadas y desordenadas correctamente estructuradas
+
+### 🚀 4. **Optimización de contenido y coherencia**
+Copilot ayudó a refinar el tono, mantener coherencia entre secciones y enriquecer las descripciones con lenguaje profesional y motivador. La herramienta sugirió mejoras en la redacción para que el contenido fuera más impactante, generara confianza en visitantes y transmitiera claramente los valores y objetivos como estudiante de DAW.
+
+---
+
 ## 🌐 Conecta conmigo
 
 - 📧 **Email**: *[Tu correo aquí]*
