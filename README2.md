@@ -38,6 +38,22 @@ Me interesa especialmente el aprendizaje continuo y estoy comprometido con mante
 
 ---
 
+## 📚 Contenidos de mi Wiki
+
+Mi wiki personal está organizada en distintas áreas de interés, cada una con un enfoque de aprendizaje, documentación y exploración técnica.
+
+| Icono | Categoría | Descripción breve | Estado actual de la documentación |
+|:---:|---|---|---|
+| 🎬 | **Películas** | Recopilación de obras, géneros, opiniones y análisis sobre narrativa, dirección y estética cinematográfica. | 🟡 En desarrollo |
+| 🎵 | **Música** | Documentación de artistas, estilos, teoría musical y referencias culturales relacionadas con la música. | 🟡 En desarrollo |
+| 🎮 | **Juegos** | Exploración de videojuegos, mecánicas, narrativa interactiva y experiencias de juego. | 🟡 En desarrollo |
+| 🍽️ | **Comidas** | Registro de recetas, sabores, gastronomía y experiencias culinarias que me interesan. | 🟡 En desarrollo |
+| 🚗 | **Vehículos** | Organización de información sobre modelos, tecnología automotriz y el mundo del transporte. | 🟡 En desarrollo |
+
+Esta estructura refleja mi forma de aprender: ordenar el conocimiento por temas, documentar lo que descubro y ampliar cada categoría con nuevas referencias y experiencias.
+
+---
+
 ## 📚 Mi enfoque de aprendizaje
 
 Creo en el **aprendizaje práctico** y la **experimentación constante**. Mi metodología incluye:
