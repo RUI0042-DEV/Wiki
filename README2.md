@@ -1,10 +1,42 @@
-# Hola, soy RUI0042-DEV 👨‍💻
+# 🚀 Hola, soy RUI0042-DEV 👨‍💻
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Desarrollo%20de%20Aplicaciones%20Web-blue?style=for-the-badge" alt="Estudiante DAW" />
-  <img src="https://img.shields.io/badge/Centro-Escola%20Pia%20Santa%20Anna--Mataró-success?style=for-the-badge" alt="Centro educativo" />
-  <img src="https://img.shields.io/badge/Pasión-Tecnología-red?style=for-the-badge" alt="Pasión por la tecnología" />
+  
+  ![Banner Wiki Personal](https://img.shields.io/badge/Wiki%20Personal%20de%20Aprendizaje-Desarrollo%20Web-2563eb?style=for-the-badge&logo=github&logoColor=white)
+  
+  [![Estado del Repositorio](https://img.shields.io/badge/Estado-En%20Desarrollo%20Activo-success?style=flat-square&logo=rocket&logoColor=white)](https://github.com/RUI0042-DEV/Wiki)
+  [![Última Actualización](https://img.shields.io/badge/Última%20Actualización-Octubre%202026-blue?style=flat-square&logo=calendar)](https://github.com/RUI0042-DEV/Wiki/commits)
+  [![Progreso](https://img.shields.io/badge/Progreso-20%25-orange?style=flat-square&logo=progress)](https://github.com/RUI0042-DEV/Wiki)
+  
+  ```
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║        📚 WIKI PERSONAL DE APRENDIZAJE - DAW ESTUDIANTE 📚  ║
+  ║                                                              ║
+  ║         Desarrollo Web | Tecnología | Aprendizaje Continuo  ║
+  ║                                                              ║
+  ║              Escola Pia Santa Anna-Mataró 2026              ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+  ```
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
 </div>
+
+---
+
+## 📊 Estado del Repositorio
+
+| Aspecto | Estado | Detalles |
+|---------|--------|----------|
+| 🟢 **Actividad** | En Desarrollo Activo | Se añade contenido regularmente |
+| 📈 **Cobertura** | 20% Completado | 5 categorías principales iniciadas |
+| 🔧 **Mantenimiento** | Activo | Última actualización: Octubre 2026 |
+| ✅ **Calidad** | En mejora | Documentación clara y estructurada |
 
 ---
 
@@ -119,5 +151,12 @@ En mi repositorio encontrarás proyectos que reflejan mi evolución como desarro
   ### ¡Siempre abierto a nuevas oportunidades, desafíos y colaboraciones! 🚀
   
   *"Nunca dejes de aprender. Cada línea de código es una oportunidad de crecer."*
+  
+  ---
+  
+  [![GitHub followers](https://img.shields.io/github/followers/RUI0042-DEV?style=social)](https://github.com/RUI0042-DEV)
+  [![GitHub Stars](https://img.shields.io/github/stars/RUI0042-DEV?style=social)](https://github.com/RUI0042-DEV)
+  
+  Hecho con ❤️ por RUI0042-DEV | Octubre 2026
   
 </div>
