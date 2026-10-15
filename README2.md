@@ -108,6 +108,19 @@ Creo en el **aprendizaje práctico** y la **experimentación constante**. Mi met
 
 ---
 
+## Mis objetivos
+
+- Completar con éxito el ciclo formativo de **DAW** y consolidar los conocimientos de frontend y backend.
+- Desarrollar proyectos reales full-stack que me permitan aplicar buenas prácticas y arquitecturas modernas.
+- Aprender de forma continua y mantenerme actualizado con las tecnologías y tendencias del desarrollo web.
+
+Para aprender utilizo habitualmente: [MDN Web Docs](https://developer.mozilla.org/)
+
+**El mejor código es aquel que resuelve el problema de forma clara, eficiente y mantenible.**
+
+
+---
+
 ## 🎓 Formación académica
 
 **Desarrollo de Aplicaciones Web (DAW)**  
